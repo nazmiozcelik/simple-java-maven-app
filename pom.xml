@@ -9,7 +9,7 @@
     </snapshotRepository>
 </distributionManagement>
   
-  
+  webhook trigger control
   
   <modelVersion>4.0.0</modelVersion>
   <groupId>devopsgrup</groupId>
